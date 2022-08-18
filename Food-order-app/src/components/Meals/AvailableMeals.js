@@ -34,8 +34,9 @@ const AvailableMeals = () => {
 
     return <section className={classes.meals} >
         <ul>
-
-            {mealsList}
+          <Card>
+             {mealsList}
+          </Card>
         </ul>
     </section>
 };
