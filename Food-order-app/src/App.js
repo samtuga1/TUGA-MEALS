@@ -17,7 +17,7 @@ const hideCartHandler = () => {
 
   return (
     <Fragment>
-      {cartIsShown && <Cart onHideCart={hideCartHandler} />}
+      {cartIsShown && <Cart onClose={hideCartHandler} />}
       <Header onShowCart={showCartHandler} onHideCart={hideCartHandler} />
       <main>
         <Meals />
