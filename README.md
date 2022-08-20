@@ -22,4 +22,4 @@ https://user-images.githubusercontent.com/79772304/185724130-0b940d4c-6c09-497e-
 
 🎯 More about javascript
 
-🎯 Learnt how to use useEffect to update some state in a component when its depndencies change
+🎯 Learnt how to use useEffect to update some state in a component when its dependencies change
