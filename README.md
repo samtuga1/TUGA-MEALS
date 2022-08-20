@@ -1,6 +1,6 @@
 # TUGA-MEALS
 
-###PREVIEWS
+### PREVIEWS
 
 ![m1](https://user-images.githubusercontent.com/79772304/185723644-dba68c76-b5c4-407e-898d-a8cdb4fed377.png)
 ![m2](https://user-images.githubusercontent.com/79772304/185723645-cfdb498b-4800-4da3-be0e-f2831cdc748f.png)
