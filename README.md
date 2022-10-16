@@ -10,7 +10,7 @@
 
 https://user-images.githubusercontent.com/79772304/185724130-0b940d4c-6c09-497e-bd82-32ebff1295c6.mp4
 
-**What I learnt during this project build**
+**What I learnt when building this project**
 
 🎯 React hooks { useState, useEffect, useRef, useContext, useReducer }
 
